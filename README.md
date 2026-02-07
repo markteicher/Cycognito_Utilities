@@ -1,4 +1,4 @@
-# Cycognito Utilities
+# Cycognito for Splunk App
 Utilities to analyze Cycognito External Attack Surface Management more easily then leveraging the User Interface
 
 
